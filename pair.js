@@ -63,7 +63,7 @@ router.get('/', async (req, res) => {
 ┃CONNECTED ✅🔥
 ┗━━━━━━━━━━━━━━━
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
-❶ || Creator = 𖥘 FRONEXT MD 𖥘
+❶ || Creator = 𖥘 CYBER FROLY 𖥘
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
 ❷ || WhattsApp Channel = https://whatsapp.com/channel/0029VaqPVqA1yT2CTlHi0o13
 ▬▬▬▬▬▬▬▬▬▬▬▬▬▬
